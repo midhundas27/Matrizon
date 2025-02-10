@@ -1,8 +1,8 @@
 ![StackUp Banner]([https://tinkerhub.frappe.cloud/files/stackup%20banner.jpeg])
 # Project Name
-MATRIZON_E-commerce
+MATRIZON
 # Description
-An e-commerce website is an online platform where businesses can sell their products or a sevice to customers over the internet.As a project creating e-commerce website involves designing and developing a user-friendly website that allows customers to browse products,add items to their cart and make secure online payments.
+An online platform where businesses can sell their products or a sevice to customers over the internet.As a project creating e-commerce website involves designing and developing a user-friendly website that allows customers to browse products,add items to their cart and make secure online payments.
 ## Team members
 1. Alija Elizabeth John [https://github.com/alija-john]
 2. Fawaz Hussain K T [https://github.com/fawaz-hussain]
